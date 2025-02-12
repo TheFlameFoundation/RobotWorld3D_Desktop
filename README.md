@@ -1,40 +1,47 @@
-# **Media World | Explore, Engage, Enlighten in the Realm of Media 🎥**
+# **Robot World | Love, Laugh, Learn, Lucrative for Robotics 🤖**
 
 ## **🧾Table of Contents**
 
-- [📖 Introduction](#Introduction)
-- [🚀How to Access Media World](#How-to-access)
-- [🎮Gameplay & Features](#features)
-- [⚙️Technical Details](#techdetails)
-- [🗂️Repository Structure](#repo-structure)
-- [🤝Community Contributions](#contributions)
-- [👨🏻‍💻Contact & Support](#contact-support)
+- [**Robot World | Love, Laugh, Learn, Lucrative for Robotics 🤖**](#robot-world--love-laugh-learn-lucrative-for-robotics-)
+  - [**🧾Table of Contents**](#table-of-contents)
+  - [**📖Introduction**](#introduction)
+  - [**🚀How to Access Robot World**](#how-to-access-robot-world)
+  - [**🎮Gameplay \& Features**](#gameplay--features)
+  - [**⚙️Technical Details**](#️technical-details)
+    - [**🚨System Requirements**](#system-requirements)
+      - [Minimum:](#minimum)
+      - [Recommended:](#recommended)
+    - [**🖥️Tech Stack**](#️tech-stack)
+    - [**🛠️Installation \& Setup**](#️installation--setup)
+      - [**Download from Itch.io**](#download-from-itchio)
+  - [**🗂️Repository Structure**](#️repository-structure)
+  - [**🤝Community Contributions**](#community-contributions)
+  - [**👨🏻‍💻Contact \& Support**](#contact--support)
 
 ## **📖Introduction**<a name="Introduction"></a>
 
-Welcome to Magic Worlds, where everything is possible, and the only limit is your imagination and dreams. Forever free, family-friendly, and open source.
+Welcome to _Magic Worlds_ where everything is possible and the only limit is your imagination and dreams. Forever free, family friendly and open source.
 
-_Media World_ is an immersive realm within Magic Worlds that allows players to dive into the dynamic universe of media and journalism. Engage in news reporting, produce captivating content, and interact with virtual media moguls as you navigate the fast-paced world of information dissemination.
+_Robot World_ is a cutting-edge virtual realm where technology enthusiasts can delve into the fascinating universe of robotics. Design, build, and program your own robots, engage in interactive challenges, and collaborate with AI-powered robotic mentors. Whether you're a seasoned engineer or a curious novice, _Robot World_ offers an immersive experience to explore the marvels of robotics.
 
-
-## **🚀How to Access Media World**<a name="How-to-access"></a>
+## **🚀How to Access Robot World**<a name="How-to-access"></a>
 
 1. **Launch Magic Worlds** and enter your spaceship.
 2. **Talk to the Vice Captain** by walking up ahead and pressing `E`.
 3. **Head straight up to the bridge** and enter by pressing `E`.
 4. **Once in the bridge, climb up the platform** to access the travel console.
 5. **Access the console** by entering the passcode `[789]`.
-6. **Select Media World** in the World Hub.
-7. **Start Exploring**: Dive into  media houses, meet virtual journalists.
+6. **Select Robot World** in the World Hub.
+7. **Start Exploring**: Dive into robotics labs, participate in coding workshops, and meet AI-driven robotic mentors.
 
 ## **🎮Gameplay & Features**<a name="features"></a>
 
-- 📰 **Newsroom Exploration** – Step into virtual newsrooms and experience live reporting.
-- 🎤 **Meet the Icons** – Interact with virtual media legends and gain insights.
-- 🎥 **Content Production** – Create your own media content and share it with the _Magic Worlds_ community.
-- 🎁 **Exclusive Rewards** – Unlock special media-related items and earn tokens.
-
-
+- **🤖 Robot Design Lab** – Craft and customize your own robots using a vast array of components.
+- **🛠️ Programming Challenges** – Test your coding skills by programming robots to complete various tasks.
+- **🌐 Interactive Workshops** – Join live sessions to learn about the latest advancements in robotics.
+- **🧠 AI Mentorship** – Collaborate with AI-powered mentors to enhance your understanding of robotics.
+- **🏆 Robotics Competitions** – Participate in challenges to showcase your creations and earn rewards.
+- **🎁 Unlockable Content** – Gain access to exclusive components and features as you progress.
 
 ## **⚙️Technical Details**<a name="techdetails"></a>
 
@@ -60,9 +67,9 @@ _Media World_ is an immersive realm within Magic Worlds that allows players to d
 
 ### **🖥️Tech Stack**
 
-_Media Worlds_ is built using the following technologies:
+_Magic Worlds_ is built using the following technologies:
 - **Game Engine**: Godot Game Engine
-- **Programming Languages**: GDScript, Python, JavaScript
+- **Programming Languages**: GitHub, GDScript, Python, JavaScript
 - **Database**: MySQL, MongoDB
 - **Cloud Platforms**: AWS, Google Cloud
 - **Operating Systems**: Windows, Linux, macOS, iOS, mobile
@@ -71,7 +78,7 @@ _Media Worlds_ is built using the following technologies:
 
 #### **Download from Itch.io**
 
-1. Visit [Magic Worlds on Itch.io.](https://magicworlds.itch.io/magic-world).
+1. Visit [Magic Worlds on Itch.io](https://magicworlds.itch.io/magic-world).
 2. Download the latest version of _Magic Worlds_.
 3. Extract the downloaded file (if applicable).
 4. Run the game executable to start playing.
@@ -79,8 +86,8 @@ _Media Worlds_ is built using the following technologies:
 ## **🗂️Repository Structure**<a name="repo-structure"></a>
 
 ```plaintext
-MediaWorld3D_Desktop/
-│-- assets/        # Game assets (media, visuals, animations)
+RobotWorld3D_Desktop/
+│-- assets/        # Game assets (music, visuals, animations)
 │-- src/           # Main game source code
 │-- docs/          # Documentation files
 │-- tests/         # Unit and integration tests
@@ -90,7 +97,7 @@ MediaWorld3D_Desktop/
 
 ## **🤝Community Contributions**<a name="contributions"></a>
 
-_Media World_ is part of the open-source _Magic Worlds_ project. You can contribute by:
+_Robot World_ is part of the open-source _Magic Worlds_ project. You can contribute by:
 
 - Forking the repository and submitting pull requests.
 - Reporting bugs and suggesting improvements.
