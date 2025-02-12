@@ -3,7 +3,7 @@
 ## **🧾Table of Contents**
 
 - [📖 Introduction](#Introduction)
-- [🚀How to Access Music World](#How-to-access)
+- [🚀How to Access Media World](#How-to-access)
 - [🎮Gameplay & Features](#features)
 - [⚙️Technical Details](#techdetails)
 - [🗂️Repository Structure](#repo-structure)
@@ -14,10 +14,10 @@
 
 Welcome to Magic Worlds, where everything is possible, and the only limit is your imagination and dreams. Forever free, family-friendly, and open source.
 
-Media World is an immersive realm within Magic Worlds that allows players to dive into the dynamic universe of media and journalism. Engage in news reporting, produce captivating content, and interact with virtual media moguls as you navigate the fast-paced world of information dissemination.
+_Media World_ is an immersive realm within Magic Worlds that allows players to dive into the dynamic universe of media and journalism. Engage in news reporting, produce captivating content, and interact with virtual media moguls as you navigate the fast-paced world of information dissemination.
 
 
-## **🚀How to Access Music World**<a name="How-to-access"></a>
+## **🚀How to Access Media World**<a name="How-to-access"></a>
 
 1. **Launch Magic Worlds** and enter your spaceship.
 2. **Talk to the Vice Captain** by walking up ahead and pressing `E`.
@@ -60,7 +60,7 @@ Media World is an immersive realm within Magic Worlds that allows players to div
 
 ### **🖥️Tech Stack**
 
-_Magic Worlds_ is built using the following technologies:
+_Media Worlds_ is built using the following technologies:
 - **Game Engine**: Godot Game Engine
 - **Programming Languages**: GDScript, Python, JavaScript
 - **Database**: MySQL, MongoDB
