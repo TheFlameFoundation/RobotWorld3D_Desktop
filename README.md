@@ -2,8 +2,6 @@
 
 ## **🧾Table of Contents**
 
-- [**Robot World | Love, Laugh, Learn, Lucrative for Robotics 🤖**](#robot-world--love-laugh-learn-lucrative-for-robotics-)
-  - [**🧾Table of Contents**](#table-of-contents)
   - [**📖Introduction**](#introduction)
   - [**🚀How to Access Robot World**](#how-to-access-robot-world)
   - [**🎮Gameplay \& Features**](#gameplay--features)
